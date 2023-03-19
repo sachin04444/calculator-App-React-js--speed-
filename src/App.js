@@ -1,12 +1,14 @@
 import React from 'react';
-import Mstring from './Mstring/Mstring';
+import Index1 from './Speed,Distance,Time/Index1';
+
+
+
 
 function App() {
 
   return (
     <>
-    
-    <Mstring/>
+    <Index1/>
     </>
   );
 }
